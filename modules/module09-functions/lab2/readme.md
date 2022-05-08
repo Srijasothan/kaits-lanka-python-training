@@ -1,0 +1,1 @@
+Write a Python function that takestwo lists and returns True if they are equal otherwise false
